@@ -1,0 +1,49 @@
+body {
+	background-color: #A2A3B0;
+}
+
+.container {
+	margin-top: 10%
+}
+
+.carousel-indicators {
+	left: 0;
+	top: auto;
+	bottom: -70px;
+}
+
+.carousel-indicators li {
+	background: #000;
+	border-radius: 50%;
+	width: 15px;
+	height: 15px;
+}
+
+.carousel-indicators .active {
+	background: deeppink;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	text-decoration: none;
+}
+
+.img-text {
+	width: 100%;
+	height: 300px;
+	display: block;
+	border: 1px solid #fff;
+	text-align: center;
+	padding: 20% 5%;
+	background: deeppink;
+	color: #fff;
+	border-radius: 15px;
+}
+
+.img-text h2 {
+	font-size: 25px;
+	font-family: big john;
+}
