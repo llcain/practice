@@ -1,0 +1,46 @@
+
+.jumbotron {
+	background-image: url('polkadot.gif');
+	background-size: cover;
+}
+
+.jumbotron img {
+	display: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.jumbotron h1 {
+	font-family:  'Charmonman';
+	font-size: 7rem;
+	margin-left: 40px;
+	text-align: center;
+}
+
+.jumbotron h2 {
+	margin: 60px;
+	font-family:  'Charmonman';
+	font-size: 7rem;
+	text-align: center;
+	color: purple;
+}
+
+
+/*Heading*/
+
+
+.contact-form {
+	margin: 10px;
+}
+
+.container-fluid {
+	padding: 7% 15%;
+}
+
+.card {
+	background-color: green;
+}
+
+.rotate {
+	transform: rotate(-10deg);
+}
